@@ -13,3 +13,5 @@
 *.rej
 *~
 *.pyc
+board/qemu/arm-vexpress-optee/rootfs_overlay/bin
+board/qemu/arm-vexpress-optee/rootfs_overlay/lib

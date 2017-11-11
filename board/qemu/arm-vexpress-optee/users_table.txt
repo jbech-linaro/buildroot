@@ -1,0 +1,1 @@
+optee -1 wheel -1 =optee /home/optee /bin/sh - OP-TEE user
